@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="bg-neutral-50 border-t border-neutral-200 dark:bg-slate-900 mt-8 fixed bottom-0 left-0 w-full">
       <Container>
         <div className="py-12 flex flex-col lg:flex-row items-center">
-          <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
+          <h3 className="lg:text-2xl font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             Statically Generated with Next.js.
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2 ">
